@@ -2,6 +2,8 @@
 Simple ARM machine code disassembler and emulator
 
 # Usage
+
+```bash
 $ python3 arm_emulator.py
    0:   e3010337        movw    r0, #4919       @ 0x1337
    4:   e30312ca        movw    r1, #13002      @ 0x32ca
@@ -120,3 +122,4 @@ $ python3 arm_emulator.py
 Emulated result of R0: ('0x81e6a7d', 136211069)
 Emulated result of R1: ('0x41a9c036', 1101643830)
 Emulated result of R2: ('0x17cc4a6e', 399264366)
+```
