@@ -1,4 +1,4 @@
-# arm_code_emulator
+# arm-emulator
 Simple ARM machine code disassembler and emulator
 
 # Usage
