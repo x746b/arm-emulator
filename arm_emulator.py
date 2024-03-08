@@ -33,8 +33,6 @@ def emulate_arm_code():
     except UcError as e:
         print(f"Unicorn Error: {e}")
 
-
-
 # Run disassembly
 print(disasm(ARM_CODE, arch='arm'),"\n")
 
