@@ -1,3 +1,7 @@
+# ----------------------------------------------
+#                  ><~|~/<  
+# ----------------------------------------------
+
 from pwn import disasm
 from unicorn import Uc, UC_ARCH_ARM, UC_MODE_ARM, UcError
 from unicorn.arm_const import UC_ARM_REG_R0, UC_ARM_REG_R1, UC_ARM_REG_R2
