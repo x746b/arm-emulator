@@ -119,7 +119,7 @@ $ python3 arm_emulator.py
  1bc:   e0800001        add     r0, r0, r1
  1c0:   e0a00002        adc     r0, r0, r2 
 
-Emulated result of R0: ('0x81e6a7d', 136211069)
-Emulated result of R1: ('0x41a9c036', 1101643830)
-Emulated result of R2: ('0x17cc4a6e', 399264366)
+Emulated result of R0: 0x81e6a7d (136211069)
+Emulated result of R1: 0x41a9c036 (1101643830)
+Emulated result of R2: 0x17cc4a6e (399264366)
 ```
